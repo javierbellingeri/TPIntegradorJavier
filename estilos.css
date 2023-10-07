@@ -1,0 +1,33 @@
+
+#cajas a
+{
+color: aliceblue;
+
+}
+
+#ultimo a
+{
+color: rgb(119, 255, 0);
+}
+
+#div_imagen
+{
+position: absolute;
+left: 50%;
+bottom:1% ;
+color:rgb(249, 247, 246);
+text-align:end;
+}
+
+
+#contenedor
+{
+padding: 0.1%;
+}
+
+#contenedor2
+{
+padding: 2%;
+color: aliceblue;
+}
+
